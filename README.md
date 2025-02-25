@@ -25,7 +25,7 @@ It consists of:
 * 10 different training/testing folds, each with:
   * `train.csv` – Contains weekly sales data for different stores and departments
   * `test.csv` – Contains the same store-department structure but without sales values
-  * A final test file (`test_with_label.csv`) for evaluation
+ * A final test file (`test_with_label.csv`) for evaluation
 
 ## Key Variables:
 * **Store** – Store ID
