@@ -63,10 +63,10 @@ This adjustment reduced Weighted Absolute Error (WAE) and improved forecasting a
 
 ## Results Summary
 The model’s performance was evaluated using Weighted Absolute Error (WAE), where holiday weeks had higher importance.
-1. Baseline Linear Regression: Average WAE = 1658
-2. \+ SVD Noise Reduction: Average WAE = 1613
-3. \+ Yr² Feature: Average WAE = 1585
-4. \+ Holiday Adjustments: Average WAE = 1559.998 (best)
+1. **Baseline Linear Regression:** Average WAE = 1658
+2. **\+ SVD Noise Reduction:** Average WAE = 1613
+3. **\+ Yr² Feature:** Average WAE = 1585
+4. **\+ Holiday Adjustments:** Average WAE = 1559.998 (best)
   
 ## How to Run the Code
 1.	**Clone the repository and navigate to one of the project directories:**
